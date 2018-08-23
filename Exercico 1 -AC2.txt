@@ -6,10 +6,10 @@
 </head>
 
 <body>
- <ol>
-      <li>Natalia S Pandolfi Pereira</li>
-      <li>Guilherme Ribeiro Nogueira</li>
-    </ol>
+
+      <!– –Natalia S Pandolfi Pereira 1800825 padawolf@gmail.com
+      Guilherme Ribeiro Nogueira 1800232 guirnogueira222@gmail.com
+    - - >
 	
 <font color="red"><u><h1 align="center">Inteligência Artificial</h1></u></font>
 
