@@ -6,6 +6,11 @@
 </head>
 
 <body>
+ <ol>
+      <li>Natalia S Pandolfi Pereira</li>
+      <li>Guilherme Ribeiro Nogueira</li>
+    </ol>
+	
 <font color="red"><u><h1 align="center">Inteligência Artificial</h1></u></font>
 
 <h1>Introdução</h1>
