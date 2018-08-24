@@ -1,0 +1,23 @@
+.titulo{
+    font-size: 200%;
+    color: red;
+    text-decoration: underline;
+    align-self: center;
+    font-weight: bold;
+}
+.int{
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.vermelho{
+    color: red;
+}
+
+.verde{
+    color:lightgreen;
+}
+
+.meucss{
+
+}
